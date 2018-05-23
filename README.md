@@ -1,2 +1,3 @@
-# Simple-Shop-Program
-This program Allows you to choose items that you want to buy at stationary. [Warning!] Interface of this program is in Bahasa Indonesia
+# My-Trial
+These programs was made by me as my excercise to study about C programming.
+[Warning!] Interface of this program is in Bahasa Indonesia
